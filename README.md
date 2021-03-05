@@ -70,77 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
- 90000 - jwellary
- 71000 - bike
- 18000 - laptop
----------------
-179000 - pending
-
-64700 - Feb Month
-
-18992 - laptop - Done
- 5552 - bike - Done
- 5127 - AG - Done
- 2000 - home udhari - Done
- 3000 - rent - Done
- 2150 - credit card - Done
-  500 - SBI balance - Done
-  740 - hotel dinner - Done
-  500 - Home expence
------------------------
-38561 - total expence
-
-  64700 
-- 38560
---------------------- 
-= 26640 salary balance
-
-  26400
-+  1000 - swapnil
--------------------
-  27400 salary balance
-
-  27400 
-+ 38000 swapnil
-+ 17600 Share market
---------------------------
-= 83000 total balance
-
-****************************************************
-
-64700 - March Month
-
-18953 - laptop - 
- 5552 - bike - 
- 3000 - home udhari - 
- 3000 - rent - 
------------------------
-30505 - total expence
-
-  64700 
-- 30500
------------------------ 
-= 34200   salary balance
-
-  83000 total balance
-+ 34200
--------------------------
- 117200
-
-******************************************************
  
-64700 - April Month
-
-3000 - rent
-5000 - Home udhari
-2000 - expence
--------------------------------
-10000 - total
-
-117200 - main balance
- 55000 - salary balance
-
-
 
  
 
